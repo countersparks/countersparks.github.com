@@ -1,2 +1,2 @@
-# countersparks.github.com
+# countersparks.github.io
 Website for self
